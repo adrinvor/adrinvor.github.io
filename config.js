@@ -1,6 +1,6 @@
 var config = {
     style: 'mapbox://styles/branigan/cjz37rcb003ib1cr3s8rnkt2d',
-    accessToken: 'sk.eyJ1IjoiYWRyaW52b3IiLCJhIjoiY2tic253dmYwMDF0aTJ3cHJraWIyd2RidiJ9.1f7aCoft2fgAVce8Op4fPQ',
+    accessToken: 'pk.eyJ1IjoibWJ4c29sdXRpb25zIiwiYSI6ImNrMm01aG9hdTBlZGwzbXQ1ZXVrNHNmejAifQ.QHQA0N6XPWddCXtvoODHZg',
     showMarkers: false,
     alignment: 'left',
     theme: ' satellite',
