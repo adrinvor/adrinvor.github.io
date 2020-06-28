@@ -3,7 +3,7 @@ var config = {
     accessToken: 'pk.eyJ1IjoibWJ4c29sdXRpb25zIiwiYSI6ImNrMm01aG9hdTBlZGwzbXQ1ZXVrNHNmejAifQ.QHQA0N6XPWddCXtvoODHZg',
     showMarkers: false,
     alignment: 'left',
-    theme: 'dsatellite',
+    theme: 'satellite',
     title: 'Glaciers of Glacier National Park',
     subtitle: 'Change in coverage from 1998 to 2015',
     byline: '',
