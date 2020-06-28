@@ -3,7 +3,7 @@ var config = {
     accessToken: 'pk.eyJ1IjoibWJ4c29sdXRpb25zIiwiYSI6ImNrMm01aG9hdTBlZGwzbXQ1ZXVrNHNmejAifQ.QHQA0N6XPWddCXtvoODHZg',
     showMarkers: false,
     alignment: 'left',
-    theme: ' satellite',
+    theme: 'satellite',
     title: '广清城际下行线',
     subtitle: '2020.5.12-2020.5.24',
     byline: '',
